@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "canvas": {
+      "type": "http",
+      "url": "https://canvas-mcp.ai.huit.harvard.edu/mcp",
+      "headers": {
+        "Authorization": "Bearer <YOUR_API_KEY>"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "solar-system-mcp-server",
+  "description": "provides access to Solar System astronomical data from the API at https://api.le-systeme-solaire.net/en/",
+  "version": "1.0.0",
+  "author": {
+    "name": "MCP Marketplace"
+  }
+}
