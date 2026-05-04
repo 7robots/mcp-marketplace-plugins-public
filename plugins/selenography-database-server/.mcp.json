@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "selenography-database-server": {
+      "type": "http",
+      "url": "https://rising-violet-emu.fastmcp.app/mcp"
+    }
+  }
+}

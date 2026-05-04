@@ -1,0 +1,8 @@
+{
+  "name": "selenography-database-server",
+  "description": "This server provides an MCP interface to a D1 SQL database of lunar geologic features.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MCP Marketplace"
+  }
+}
