@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "solar-system-mcp-server": {
-      "type": "http",
-      "url": "https://giant-plum-rabbit.fastmcp.app/mcp"
-    }
-  }
-}
