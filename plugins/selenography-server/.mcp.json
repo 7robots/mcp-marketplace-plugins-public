@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "selenography-server": {
+      "type": "http",
+      "url": "https://moon-d1-worker.jefferson-b97.workers.dev/mcp"
+    }
+  }
+}

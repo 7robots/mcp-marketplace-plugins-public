@@ -1,0 +1,8 @@
+{
+  "name": "selenography-server",
+  "description": "this mcp server runs 100% in cloudflare. D1 database, worker, durable object, etc",
+  "version": "1.0.0",
+  "author": {
+    "name": "MCP Marketplace"
+  }
+}
