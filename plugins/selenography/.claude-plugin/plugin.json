@@ -1,0 +1,8 @@
+{
+  "name": "selenography",
+  "description": "Provides access to database of lunar geologic features",
+  "version": "1.0.0",
+  "author": {
+    "name": "MCP Marketplace"
+  }
+}
