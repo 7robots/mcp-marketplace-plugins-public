@@ -1,0 +1,8 @@
+{
+  "name": "solar-system",
+  "description": "provides access to essential information on astronomical bodies in the solar system",
+  "version": "1.0.0",
+  "author": {
+    "name": "MCP Marketplace"
+  }
+}
